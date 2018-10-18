@@ -1,4 +1,4 @@
-# WIXOSS Card Web Scraper
+# WIXOSS Card Web Crawler
 
 ### Introduction
 
